@@ -1,0 +1,3 @@
+([('NCBI Helper',
+   '/Users/seungjunlee/Documents/Projects/Bioinformatics/dist/NCBI Helper',
+   'EXECUTABLE')],)
